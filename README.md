@@ -8,6 +8,6 @@ This implementation can represents spheres of three different materials (Lambert
 
 <h2> TODO: </h2>
 * Parallel computing to speed up the ray-object intersection.<br/>
-* Blur features<br/>
+* Blur feature<br/>
 <br/>
 For a more complex ray tracer, please refer to the repository ray-tracing-next-week.
